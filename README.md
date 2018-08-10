@@ -3,7 +3,7 @@
 
 Proof of Concept app is intended to help create cinemagraphs without a tripod. Recording a scene by hand will always incur some level of instability. This app tracks the optical flow of the video and sets the best fixed points to provide 'tripod like' stabliization. 
 
-Examples hand held recordings stabilized are here: https://flixel.com/george2222/
+Examples of hand held recordings stabilized on fixed points are here: https://flixel.com/george2222/
 
 # Install
 
