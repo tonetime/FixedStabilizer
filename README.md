@@ -12,4 +12,4 @@ Examples hand held recordings stabilized are here: https://flixel.com/george2222
 3. Copy framework into FixedStabilizer Project: cp -r opencv2-3.framework/ ~/Downloads/FixedStabilizer-master/opencv2.framework (make sure to call it opencv2.framework)
 4. Add framework in Targets->Build Phases-> Link Binary with Libraries
 
-git
+
